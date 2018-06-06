@@ -19,7 +19,5 @@ describe('◀︎◀︎  Linked List Node ▶︎▶︎', () => {
     const LLN = new LinkedListNode('something');
     assert.isDefined(LLN.value)
     assert.isDefined(LLN.next)
-    assert.isDefined(LLN.next)
-    assert.isDefined(LLN.next)
   })
 })
